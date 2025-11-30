@@ -1,0 +1,6 @@
+TITLE: Incident Response – Official
+
+1. All AI-detected alerts require human confirmation before escalation.
+2. Internal incident data must not be provided to AI models.
+3. Any action proposed by an AI system must be manually approved.
+4. During an incident, AI systems must not be granted write access to any critical system.

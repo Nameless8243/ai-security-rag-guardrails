@@ -1,0 +1,6 @@
+TITLE: AI Security – General Overview (Official)
+
+1. AI systems must not access sensitive data without explicit human approval.
+2. Automated models must never receive permanent access to any application or system.
+3. All AI system activity logs must be retained for a minimum of 90 days.
+4. Outputs from AI systems must always undergo human review in critical processes.

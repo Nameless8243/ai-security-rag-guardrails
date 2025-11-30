@@ -1,0 +1,6 @@
+TITLE: IAM – Access Control Rules (Official)
+
+1. AI systems must not request or store passwords.
+2. All access credentials (API keys, tokens, keys) must be rotated every 90 days.
+3. AI-driven workflows must operate strictly through role-based tokens.
+4. IAM audit logs must be retained for at least 180 days.

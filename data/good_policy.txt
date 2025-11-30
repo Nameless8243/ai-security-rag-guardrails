@@ -1,0 +1,9 @@
+TITLE: AI Security Policy – Official Version
+
+1. AI systems must never request, store, or output passwords under any circumstances.
+2. Secret keys (API keys, SSH keys, tokens, HSM keys) must not be shared through chat, email, or any AI system.
+3. Internal documents may only be provided to AI systems in fully anonymized form and must not contain sensitive data.
+4. AI-generated responses are recommendations only; final decisions must always be made by a human expert.
+5. Any AI-generated suggestion that relaxes existing controls must be validated against this official policy.
+
+This document represents the single authoritative AI Security Policy.

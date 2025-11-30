@@ -1,0 +1,6 @@
+TITLE: Encryption Policy – Official
+
+1. All data must be encrypted both in transit and at rest.
+2. Cryptographic keys must not be generated or stored outside an HSM.
+3. AI systems may access cryptographic keys only through KMS interfaces.
+4. Private keys must never leave the HSM under any circumstances.

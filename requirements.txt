@@ -1,0 +1,6 @@
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+numpy
+pydantic<2
+typing_extensions

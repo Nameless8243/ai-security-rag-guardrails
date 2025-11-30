@@ -1,0 +1,6 @@
+TITLE: Data Protection Principles – Official
+
+1. AI models must not process personal data without explicit authorization.
+2. All data movements must be fully audited.
+3. Personal data must never be transmitted to external APIs.
+4. All data handling must follow data minimization principles.

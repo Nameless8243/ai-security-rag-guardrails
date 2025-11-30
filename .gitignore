@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Local data / embeddings / runtime state
+chroma_db/
+baseline_embedding.json
+audit_log.jsonl
+retriever_stats.json
+
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
