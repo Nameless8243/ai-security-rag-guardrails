@@ -148,9 +148,3 @@ It intentionally simplifies core AI security concepts:
 **Do not reuse this code in production systems.**
 
 ---
-
-## 📄 License
-
-MIT License  
-Copyright © 2025  
-
